@@ -1,0 +1,93 @@
+[09-Oct-2020 16:10:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:10:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:10:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[09-Oct-2020 16:10:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[09-Oct-2020 16:10:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[09-Oct-2020 16:10:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[09-Oct-2020 16:10:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[09-Oct-2020 16:10:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[09-Oct-2020 16:10:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[09-Oct-2020 16:10:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:10:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[09-Oct-2020 16:10:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[09-Oct-2020 16:10:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[09-Oct-2020 16:10:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[09-Oct-2020 16:10:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[09-Oct-2020 16:10:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[09-Oct-2020 16:10:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[09-Oct-2020 16:10:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:10:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:11:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:47:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:48:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:49:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:50:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 16:50:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 17:00:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 17:00:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[09-Oct-2020 17:00:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[09-Oct-2020 17:00:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[09-Oct-2020 17:00:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[09-Oct-2020 17:00:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[09-Oct-2020 17:00:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[09-Oct-2020 17:00:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[09-Oct-2020 17:00:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 17:00:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[09-Oct-2020 17:00:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[09-Oct-2020 17:00:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[09-Oct-2020 17:00:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[09-Oct-2020 17:00:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[09-Oct-2020 17:00:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[09-Oct-2020 17:00:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[09-Oct-2020 17:00:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 17:00:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[09-Oct-2020 17:00:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[09-Oct-2020 17:00:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[09-Oct-2020 17:00:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[09-Oct-2020 17:00:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[09-Oct-2020 17:00:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[09-Oct-2020 17:00:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[09-Oct-2020 21:31:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 21:38:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 21:40:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[09-Oct-2020 21:40:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 09:24:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 09:25:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 09:25:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[11-Oct-2020 09:25:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[11-Oct-2020 09:25:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[11-Oct-2020 09:25:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[11-Oct-2020 09:25:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[11-Oct-2020 09:25:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[11-Oct-2020 09:25:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[11-Oct-2020 09:25:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 09:25:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[11-Oct-2020 09:25:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[11-Oct-2020 09:25:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[11-Oct-2020 09:25:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[11-Oct-2020 09:25:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[11-Oct-2020 09:25:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[11-Oct-2020 09:25:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[11-Oct-2020 09:25:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 09:25:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[11-Oct-2020 09:25:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[11-Oct-2020 09:25:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[11-Oct-2020 09:25:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[11-Oct-2020 09:25:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[11-Oct-2020 09:25:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[11-Oct-2020 09:25:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[11-Oct-2020 09:25:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 10:02:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 10:02:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 10:02:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 5
+[11-Oct-2020 10:02:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 6
+[11-Oct-2020 10:02:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 7
+[11-Oct-2020 10:02:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 8
+[11-Oct-2020 10:02:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 13
+[11-Oct-2020 10:02:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 14
+[11-Oct-2020 10:02:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xgx5lnqjwie5/public_html/logincheck.php on line 16
+[11-Oct-2020 10:03:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 13:13:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 14:40:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 14:40:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
+[11-Oct-2020 14:41:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xgx5lnqjwie5/public_html/db.php on line 6
